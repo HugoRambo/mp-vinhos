@@ -1,0 +1,20 @@
+npm init -y
+npm install bcrypt cookie-parser cors express jsonwebtoken mongoose multer
+nodemon
+
+npm install -y
+npm run start
+npm install bcrypt cookie-parser cors express jsonwebtoken mongoose multer nodemon
+
+
+
+
+"start": "nodemon ./index.js localhost 5000"
+
+npm run start
+
+Meu deus, na conexão DB/COON pra funga tem que estar em, por numero
+const uri = "mongodb://127.0.0.1:27017/testemongodb";
+
+
+//extensao MONGODB for VS CODE
