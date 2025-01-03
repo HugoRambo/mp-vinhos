@@ -2,7 +2,7 @@ npm init -y
 npm install bcrypt cookie-parser cors express jsonwebtoken mongoose multer
 nodemon
 
-npm install -y vfNuRjoR54
+npm install -y
 npm run start
 npm install bcrypt cookie-parser cors express jsonwebtoken mongoose multer nodemon
 
